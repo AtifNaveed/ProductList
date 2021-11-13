@@ -17,6 +17,9 @@ Unit test bundle is added to test api implementation.
 ## Required Parameters for API:
 None
 
+## iOS Screenshots:
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1636790861/1.06.27_uzsqim.png)
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1636790895/2.06.29_r61uiz.png)
 
 ## How to run this demo?
 - IDE required for this demo is xCode 12 + 
