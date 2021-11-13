@@ -1,0 +1,6 @@
+framework module Pods_DbzlMVVMTests {
+  umbrella header "Pods-DbzlMVVMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

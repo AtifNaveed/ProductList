@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.4)
+  - SwiftyProgressHud (1.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyProgressHud
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftyProgressHud
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  SwiftyProgressHud: 6ea32c04775b3057ed5c4253b9a4f7f07994e9a9
+
+PODFILE CHECKSUM: 47617f36575d7cdd60f16bb98b0888d46cd0c7fe
+
+COCOAPODS: 1.11.2
