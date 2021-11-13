@@ -620,6 +620,7 @@
 				DEVELOPMENT_TEAM = HC374WERJC;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DbzlMVVM/App/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Products;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Product;
@@ -650,6 +651,7 @@
 				DEVELOPMENT_TEAM = HC374WERJC;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DbzlMVVM/App/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Products;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Product;
